@@ -27,4 +27,6 @@ extension UIColor {
                   blue: CGFloat(hex & 0xFF) / 255.0,
                   alpha: alpha)
     }
+    
+    let green:UIColor = UIColor(named:"green_4CD964")
 }
