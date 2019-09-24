@@ -1,9 +1,9 @@
 //
 //  ExtensionUIColor.swift
 //
-//  Created by Charles Ku on 17/10/2017.
-//  Copyright © 2017 Charles Ku. All rights reserved.
-//  Swift version：4.2
+//  Created by Ray on 24/09/2019.
+//  Copyright © 2019 Sinyi Realty Inc. All rights reserved.
+//  
 
 import UIKit
 
